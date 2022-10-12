@@ -52,3 +52,67 @@
 
   </body>
 </html>
+
+main{
+  background-color:rgb(243, 239, 239);
+  padding-top: 15px;
+  text-align: center;
+  margin-top: 30px;
+  margin-left:10px;
+}
+#img-div{
+  margin-left:30px;
+  background-color: white;
+  margin-right:30px;
+  height:700px;
+  max-width: auto;
+
+}
+img{
+  max-width:auto;
+  height:650px;
+  margin: 0px 0px 0px 120px;
+  
+}
+#tribute-info{
+  text-align: left;
+}
+h3{
+  text-align: center;
+  margin:30px;
+}
+ul{
+  padding: 10px 30px 10px 30px;
+  margin: 40px 300px 40px 300px;
+}
+li{
+  margin:25px;
+  word-spacing:0.15em;
+  font-family: Georgia;
+}
+#comment{
+  padding: 10px 30px 10px 30px;
+  margin: 40px 300px 40px 300px;
+  text-align: left;
+
+}
+#img-caption {
+  padding:5px 102.5px;
+  font-size: 15px;
+  font-family: sans-serif;
+}
+.tribute-link{
+  font-weight:800em;
+  font-family: arial black;
+  font-size: 16;
+  padding: 15px;
+}
+#tribute-link:hover{
+color: pink;
+}
+#image{
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin:0 auto;
+}
